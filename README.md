@@ -77,4 +77,7 @@ We got an accuracy of 79.8 % in this model. We ran various epochs and used effic
 
 The project is used by a lot of social media companies to analyse their market.
 
+## OUTPUT
+![image](https://user-images.githubusercontent.com/92213377/215313443-4cde0816-49ed-4016-ad83-ee051710c5c2.png)
+![image](https://user-images.githubusercontent.com/92213377/215313457-22254436-b15a-42e0-b29e-fe6b213cfc9f.png)
 
